@@ -1,11 +1,19 @@
-# 2026 MSA-Phase 2
+# Welcome to Phase 2 of MSA 2026
 
-Welcome to Phase 2 of the 2026 MSA programme! This year, Phase 2 is designed to comprehensively assess your technical skills.
+Welcome to Phase 2 of the Microsoft Student Accelerator (MSA) 2026 programme!
 
-Individual project
+## Individual Project
 
-    - This repository represents the entire technical component of Phase 2, which will assess your technical skills
-    - Complete this component individually using Phase 1 knowledge + the resources that the MSA team has provided in the folder for each stream
+This repository contains the Phase 2 project and assessment materials.
+
+You are required to complete **one project individually**, based on the stream you selected for Phase 2:
+
+* **Software Development Stream** – complete the Software Development project
+* **Data Science Stream** – complete the Data Science project
+
+Participants should apply the knowledge gained during Phase 1 and make use of the resources provided by the MSA team for their selected stream.
+
+Please read all instructions carefully before getting started and ensure that you follow the submission requirements outlined in this repository.
 
 The expected workload for Phase 2 of each stream is **3–4** hours per week, and it builds upon the knowledge gained from Phase 1 of the same stream. Please follow the stream you selected in Phase 1 and manage your time effectively to further develop your knowledge and skills.
 
