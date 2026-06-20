@@ -42,9 +42,11 @@ To complete the technical component of Phase 2 and submit evidence of your compl
 - Completed all parts of your chosen stream by checking that you have included all items in your repository, as stated in the folder for your chosen stream
     - Software Development
         - The submission details are in the Software Assessment.pdf file [Software Development](https://github.com/NZMSA/2026-Phase-2/blob/main/software/2026%20Phase%202%20-%20Software%20Assessment.pdf)
-  
+
     - Data Science
-       ...
+        - [Analysis and Preprocessing Submission Details](https://github.com/NZMSA/2026-Phase-2/tree/main/data-science/1.%20Analysis%20and%20Preprocessing#submission)
+        - [Machine Learning Project Submission Details](https://github.com/NZMSA/2026-Phase-2/tree/main/data-science/2.%20Machine%20Learning%20Project#submission)
+        - [Deep Learning Project Submission Details](https://github.com/NZMSA/2026-Phase-2/tree/main/data-science/3.%20Deep%20Learning%20Project#submission)
       
 - Made your repository/ies and any other links you want to submit **public** so that they can be accessed by the MSA team for marking
     - You can check that all your links are publicly accessible by opening them in the Incognito/Private mode of your browser
