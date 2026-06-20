@@ -25,15 +25,15 @@ Contents:
 ## Project Getting Started
 
 1. Ensure that you:
-- Have downloaded all the [key tools from Phase 1](https://github.com/NZMSA/2025-Phase-1#key-tools) for your chosen stream
+- Have downloaded all the [key tools from Phase 1](https://github.com/NZMSA/2026-Phase-1#key-tools) for your chosen stream
 
 2. Create a repository inside your personal GitHub account to store all your work and clone that repository into your IDE (ignore any other branches, everything you need is in the main branch)
     - In your repository, we recommend that you create a folder for each part of your chosen stream to store your work for each part separately
     - Alternatively, feel free to clone this repository and then delete the folder for the stream you are not doing
 
 3. Refer to the folder for each stream to get started:
-    - [Data Science](https://github.com/NZMSA/2025-Phase-2/tree/main/data-science)
-    - [Software Development](https://github.com/NZMSA/2025-Phase-2/tree/main/software-development)
+    - [Data Science](https://github.com/NZMSA/2026-Phase-2/tree/main/data-science)
+    - [Software Development](https://github.com/NZMSA/2026-Phase-2/tree/main/software)
 
 ## Submission
 
