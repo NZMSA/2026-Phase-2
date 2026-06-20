@@ -41,7 +41,7 @@ To complete the technical component of Phase 2 and submit evidence of your compl
 1. Ensure that you have:
 - Completed all parts of your chosen stream by checking that you have included all items in your repository, as stated in the folder for your chosen stream
     - Software Development
-        - The submission details are in the Software Assessment.pdf file [Software Development](https://github.com/NZMSA/2026-Phase-2/blob/main/software-development/2026%20Phase%202%20-%20Software%20Assessment.pdf)
+        - The submission details are in the Software Assessment.pdf file [Software Development](https://github.com/NZMSA/2026-Phase-2/blob/main/software/2026%20Phase%202%20-%20Software%20Assessment.pdf)
   
     - Data Science
        ...
