@@ -52,7 +52,7 @@ To complete the technical component of Phase 2 and submit evidence of your compl
 - Included all files needed to run your code inside your repository so that it's easy for the MSA team to mark your submission
 
 2. The form will open from **Week 4 (starting July 13, 0:00)**. 
- [MSA 2025 Phase 2 Submission]()
+ [MSA 2025 Phase 2 Submission](https://github.com/NZMSA/2026-Phase-2/blob/main/software/2026%20Phase%202%20-%20Software%20Assessment.pdf)
  
 **The submission deadline is 11:59 pm, Sunday, 8 August**
 
